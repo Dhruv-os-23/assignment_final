@@ -133,11 +133,6 @@ Ensure you have the following installed:
    kubectl get svc  
    ```  
 
-3. Access the application through the exposed service.  
-
----
-
-]
 
   
 
