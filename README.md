@@ -137,19 +137,7 @@ Ensure you have the following installed:
 
 ---
 
-## Additional Details  
-
-- Exception handling is implemented across all routes.  
-- The application includes CI/CD setup using GitHub Actions.  
-- Detailed instructions for running the application using the provided bash script (`run-containers.sh`).  
-
----
-
-## Future Improvements  
-
-While the current implementation meets the core requirements, the following features can be added:  
-- Password protection for PDF files.  
-- Microservice architecture for further scalability.  
+]
 
   
 
